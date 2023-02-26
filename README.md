@@ -1,4 +1,4 @@
-# dockerpress – WordPress Local Development Environment
+# dockerpress
 
 This is a simple local development environment for WordPress using Docker Compose. It consists of two services, a MySQL database and a WordPress web server.
 
