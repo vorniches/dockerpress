@@ -7,12 +7,16 @@ This is a simple local development environment for WordPress using Docker Compos
 - Docker Engine
 - Docker Compose
 
-## Usage
+## Installation
 
 1. Clone this repository to your local machine
 2. Navigate to the cloned directory
 3. Start the environment with `docker-compose up -d`
 4. Access the WordPress site at `http://localhost:8000`
+
+## Usage
+
+To develop plugins or themes for WordPress, you need to create a folder for your theme or plugin in the root directory of your docker-compose file. For themes, the folder should be /themes/[YOUR_THEME_NAME] and for plugins, it should be /plugins/[YOUR_PLUGIN_NAME].
 
 ## Configuration
 
