@@ -16,7 +16,7 @@ This is a simple local development environment for WordPress using Docker Compos
 
 ## Usage
 
-To develop plugins or themes for WordPress, you need to create a folder for your theme or plugin in the root directory of your docker-compose file. For themes, the folder should be /themes/[YOUR_THEME_NAME] and for plugins, it should be /plugins/[YOUR_PLUGIN_NAME].
+To develop plugins or themes for WordPress, you need to create a folder for your theme or plugin in the root directory of your docker-compose file. For themes, the folder should be `/themes/[YOUR_THEME_NAME]` and for plugins, it should be `/plugins/[YOUR_PLUGIN_NAME]`.
 
 ## Configuration
 
